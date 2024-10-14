@@ -1,3 +1,19 @@
+
+### This section include brief description of each command to run this code 
+
+1. Clone the repository:
+   git clone https://github.com/SaraY252/news-website.git
+
+2. Navigate into the project directory
+   cd news-website
+
+3. Install dependecies such as :
+   npm install
+
+4. Running the project
+
+### `node server.js` is used to launch the runtime of Node.js where server.js contains the backend server code
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,5 +84,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-### `node server.js` is used to launch the runtime of Node.js where server.js contains the backend server code
